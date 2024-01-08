@@ -1,0 +1,9 @@
+name: CustomsOreGenerator2.0
+version: ${project.version}
+main: CustomsOreGenerator.CustomsOreGeneratorPlugin
+commands:
+  CustomsOreGenerator:
+    aliases: [ecustomsoregenerator]
+    description: Main CustomsOreGenerator command
+author: CustomEnchants
+api-version: 1.13

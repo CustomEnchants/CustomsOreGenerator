@@ -1,0 +1,7 @@
+CustomsOreGenerator\Commands\Sub\Reload.class
+CustomsOreGenerator\Util\FileUtil.class
+CustomsOreGenerator\Commands\CustomsOreGeneratorCommand.class
+CustomsOreGenerator\CustomsOreGeneratorPlugin.class
+CustomsOreGenerator\Commands\CMD.class
+CustomsOreGenerator\Listener\BlockListener.class
+CustomsOreGenerator\Objects\ChangeableBlocks.class
